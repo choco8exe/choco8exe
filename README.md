@@ -1,16 +1,22 @@
-### Hi there 👋
+### Salut !!
+![1a3e753699dda77b66a990a47f86f8635f826d9a_hq](https://user-images.githubusercontent.com/84285640/135680303-f5cbb0d3-3856-43a1-9a7b-bab169075883.gif)
 
-<!--
-**choco8exe/choco8exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour .!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`>>👤 17 ans, français`
+<br>
+`>>🗣️ choco8exe.pro@gmail.com`
+
+<details>
+  <summary><strong>Ce que j'apprends & travaille en se moment :</strong></summary>
+  - python <br>
+  - HTML CSS <br>
+  - php <br>
+  - batch <br>
+  </details>
+  
+  ![Les statistiques d'e.choco sur les github](https://github-readme-stats.vercel.app/api?username=choco8exe&show_icon=true&hide=["prs","issues","contribs"])
+  
+  [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v103)](https://github.com/ellerbrock/open-source-badges/)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=choco8exe.visitor-bage"/>
