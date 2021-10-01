@@ -1,8 +1,9 @@
-### Salut !!
+ <h1>Salut !!</h1>
+ 
 ![1a3e753699dda77b66a990a47f86f8635f826d9a_hq](https://user-images.githubusercontent.com/84285640/135680303-f5cbb0d3-3856-43a1-9a7b-bab169075883.gif)
 
 
-Hey moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour .!
+moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour .!
 
 `>>👤 17 ans, français`
 <br>
