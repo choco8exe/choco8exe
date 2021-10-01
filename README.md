@@ -18,5 +18,5 @@ Hey moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour
   
   ![Les statistiques d'e.choco sur les github](https://github-readme-stats.vercel.app/api?username=choco8exe&show_icon=true&hide=["prs","issues","contribs"])
   
-  [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v103)](https://github.com/ellerbrock/open-source-badges/)
+
   <img src="https://visitor-badge.glitch.me/badge?page_id=choco8exe.visitor-bage"/>
