@@ -9,7 +9,7 @@ Hey moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour
 `>>🗣️ choco8exe.pro@gmail.com`
 
 <details>
-  <summary><strong>Ce que j'apprends & travaille en se moment :</strong></summary>
+  <summary><strong>Ce que j'apprends & travaille en se moment (menu deroulant) :</strong></summary>
   - python <br>
   - HTML CSS <br>
   - php <br>
