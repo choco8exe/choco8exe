@@ -21,5 +21,5 @@ moi c'est choco je suis un jeune `developpeur` et j'apprends de jour en jour .!
   
   ![Les statistiques d'e.choco sur les github](https://github-readme-stats.vercel.app/api?username=choco8exe&show_icon=true&hide=["prs","issues","contribs"])
   
-![Choco8exe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choco8exe&theme=tokyonight
+  ![Choco8exe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choco8exe&theme=tokyonight)
   
